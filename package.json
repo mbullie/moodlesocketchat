@@ -1,0 +1,14 @@
+{
+  "name": "highskillspush",
+  "version": "1.0.0",
+  "description": "highskills nodejs library that will push data into moodle",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.js"
+  },
+  "author": "Michael Bulwick - Tamir Yakar",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^1.4.6"
+  }
+}
